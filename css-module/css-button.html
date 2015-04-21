@@ -6,6 +6,7 @@
 
 	/* button */
 	    .u-btn {
+	    	position: relative;
 	        padding:0;
 	        margin: 0;
 	        display:inline-block;
@@ -13,6 +14,7 @@
 	        font-size:0;
 	        cursor: pointer;
 	        -moz-user-select:none;
+
 	    }
 
 	    .u-btn .bor{
@@ -24,6 +26,8 @@
 	        -moz-user-select:none;
 	        -webkit-transition: 100ms;
 	    }
+
+	    /*2EE8E8*/
 	    /* blue */
 	    .u-btn-blue { border:2px solid #E6F6FC; }
 	    .u-btn-blue .bor { background: #2EB6E8;color: #fff;border:1px solid #1592BF;}
@@ -34,10 +38,20 @@
 	    .u-btn-gray .bor { background: #fafafa;color: #222;border:1px solid #aaa;}
 	    .u-btn-gray:hover .bor { background: #eee;border-color: #999;color: #555;}
 	    .u-btn-gray:active .bor { background: #555;color:#fff;border-color: #fff}
-	    
+		.u-btn .bor:before {
+	    	content:"aa";
+	    	display: block;
+	    	background:#ccc;
+	    	border-radius:4px;
+	    	border:1px solid red;
+	    }
 	</style>
 </head>
 <body>
-<span class="u-btn u-btn-blue" id="uBtn"><span class="bor">提交</span></span>
+
+	<span class="u-btn u-btn-blue" id="uBtn">
+		<span class="bor">提交</span>
+	</span>
+
 </body>
 </html>
