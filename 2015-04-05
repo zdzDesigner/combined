@@ -1,0 +1,30 @@
+[33m54f6e1c[m HEAD@{0}: reset: moving to 54f6e1c
+[33ma408391[m HEAD@{1}: reset: moving to HEAD^
+[33m54f6e1c[m HEAD@{2}: commit: 今儿更改了file3.txt这个文件
+[33ma408391[m HEAD@{3}: commit: first gitHub connect
+[33m1f7a554[m HEAD@{4}: commit: css-module/css-button.html
+[33m4548c82[m HEAD@{5}: commit: css-button.html 文件border
+[33ma410b2d[m HEAD@{6}: commit: CSSSELECTER.html 中before after 伪类调整，css-button.html页面before伪类添加
+[33m2e5ab5a[m HEAD@{7}: commit: renamed css-select.html to CSSSELECTER and create css-button.html file
+[33mb86895f[m HEAD@{8}: commit: create css-module dir and create css-select.html file
+[33mb2f2750[m HEAD@{9}: reset: moving to b2f2750
+[33m3fd8394[m HEAD@{10}: reset: moving to 3fd8394
+[33mb2f2750[m HEAD@{11}: commit: remove a.txt file
+[33m3fd8394[m HEAD@{12}: commit: create a.txt file
+[33ma88fddb[m HEAD@{13}: commit: modified file3.txt
+[33m474d3ff[m HEAD@{14}: commit: remove create.txt file
+[33md8ac6b9[m HEAD@{15}: commit: create new create.txt file
+[33m8cc2ee1[m HEAD@{16}: commit: remove rm.txt file
+[33mbfa4be8[m HEAD@{17}: commit: create new rm.txt file
+[33m10ed09f[m HEAD@{18}: commit: remove end file
+[33m5ff73c4[m HEAD@{19}: reset: moving to 5ff73c4
+[33mc609f1f[m HEAD@{20}: reset: moving to c609f1f
+[33m0cd9faf[m HEAD@{21}: reset: moving to HEAD^
+[33mf34378e[m HEAD@{22}: reset: moving to HEAD^
+[33m5ff73c4[m HEAD@{23}: commit: file3更改2
+[33mf34378e[m HEAD@{24}: commit: file3改1
+[33m0cd9faf[m HEAD@{25}: commit: 现在把file3提交到master
+[33m611919e[m HEAD@{26}: commit: 增加了file3
+[33m519471e[m HEAD@{27}: commit: 20150420修改
+[33m4386161[m HEAD@{28}: commit: 添加了2个file文件
+[33mc609f1f[m HEAD@{29}: commit (initial): 添加了一个hello.html文件
