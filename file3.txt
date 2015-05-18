@@ -1,8 +1,0 @@
-这是20150420新增的内容
-我又加（在这改动）了一段内容
-我再次怎加了内容
-现在怎加了哪些内容？
-继续加哦a
-gitHub update
-on gitHub change file inner
-aging change file3.txt on gitHub 
